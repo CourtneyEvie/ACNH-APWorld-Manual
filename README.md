@@ -24,7 +24,7 @@ Hiiiiii! This is my Archipelago manual for Animal Crossing: New Horizons. This i
 * Certain purchaseable collections of DIY/cooking recipes, i.e. DIY for Beginners or Test Your DIY Skills
 * The ability to invite new villagers to the island
 * Certain upgrades, i.e. Tool Ring or Inventory Space
-* The ability to purchase certain helpful items, i.e. Nook Miles Ticket, Customization Kit
+* The ability to purchase and use certain helpful items, i.e. Nook Miles Ticket, Customization Kit
 * Fun! (which is just filler)
 * Traps
 
@@ -64,6 +64,16 @@ In addition to the options listed above, there is also an option to disable post
 ## What if I don't know the game well enough to know how to get all of those?
 
 Feel free to Google anything you don't know, and if Google doesn't help, maybe the logic spreadsheet I made will!
+
+
+
+## That's a lot of options, and a LOT of freedom. How do I know the options I choose will be right for me?
+
+Haha, forget the options being right for you, some option combinations might just break the game!
+
+## Are there any- wait WHAT was that now?
+
+Okay right yeah I should explain that. With the flexibility of these settings, you can reduce the number of locations lower than the number of items in the multiworld. There are 62 items in this game, so if you set an exact combination of options that happens to only allow for fewer than 62 locations, the multiworld will at best not have much for you to do, and at worst completely fail generation. This means that you need to be careful to choose a combination of YAML options that results in 62 or more locations. I've listed all 5000+ combinations of options on my logic spreadsheet and included a YAML option verifier, so check that out if you feel like you might need it. There's only 99 combinations that don't result in enough locations though and one of those is removing everything except for all sea creatures and six villager photos, so I think you'll be generally fine, but it's always worth double checking first.
 
 
 
