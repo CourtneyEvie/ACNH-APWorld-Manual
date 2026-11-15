@@ -51,13 +51,13 @@ Really great question, actually. As a general rule of thumb, if something is in 
 ## What can I do to send items to other games?
 
 * Craft guaranteed DIY recipes for the first time. A guaranteed DIY recipe is one that doesn't rely on any luck, like message bottles or balloons, but instead are obtained by perfectly controllable means. Recipes given by Tom Nook, purchaseable from Nook's Cranny, obtainable through simple methods i.e. digging up a manila clam for the first time, or obtained from simple holiday quests all give items. The only exception is the golden tools, because while these are possible, they require a LOT of effort. The least effort is the golden shovel since you can time travel, but I decided that if you have one, you have to have them all. Besides, you'd need to find a golden nugget anyway.
-* Complete the first stage of Nook Miles goals. Except for the five Nook Miles goals that are not listed as locations. These are Golden Milestone for the same reasons as why the DIY recipes are excluded, Island and Yourland because it requires online play, Host the Most for the same reason, That's One Smart Phone because I genuinely don't understand why it's not a higher stage for NookPhone Life, and Remarkable Remodeler because it costs 1,097,000 bells and that amount of effort should not be forced upon anyone who does not choose the All Home Loans goal. The rest are all locations, and a shocking amount are available right from the start of the game, but they aren't very tedious to complete. Heck, a fair few of them are nearly automatic.
-* Donating fish to the museum (optional under YAML option Fishsanity)
-* Donating bugs to the museum (optional under YAML option Bugsanity)
-* Donating sea creatures to the museum (optional under YAML option Seasanity)
-* Obtaining unique villager photos (optional under YAML option Photosanity, because I thought that would be real fun)
+* Complete the first stage of Nook Miles goals. Except for the six Nook Miles goals that are not listed as locations. These are Golden Milestone for the same reasons as why the DIY recipes are excluded, Island and Yourland because it requires online play, Host the Most for the same reason, That's One Smart Phone because I genuinely don't understand why it's not a higher stage for NookPhone Life, Remarkable Remodeler because it costs 1,097,000 bells and that amount of effort should not be forced upon anyone who does not choose the All Home Loans goal, and Decorated Decorator because I don't understand the HHA mechanics. The rest are all locations, and a shocking amount are available right from the start of the game, but they aren't very tedious to complete. Heck, a fair few of them are nearly automatic.
+* Donating fish to the museum
+* Donating bugs to the museum
+* Donating sea creatures to the museum
+* Obtaining unique villager photos
 
-In addition to the options listed above, there is also an option to disable post-game checks, or locations that cannot be reached until completing Project K. These locations include cooking recipes, as well as certain Nook Miles goals that involve post-game only mechanics like Kapp'n, the hotel, the Roost, etc.
+All of these locations are optional under different YAML options. In addition to these options, there are also options to only include simple DIY recipes and Nook Miles, restricting or removing fish, bugs, and sea creatures that require more than 20 other creatures to be caught before they can spawn, and the number of villager photos there are, from 1-10. There is also an option to disable post-game checks, or locations that cannot be reached until completing Project K. These locations include cooking recipes, as well as certain Nook Miles goals that involve post-game only mechanics like Kapp'n, the hotel, the Roost, etc.
 
 
 
